@@ -17,10 +17,15 @@ fun main(args:Array<String>) {
     stringValue = "Hello World"
     println("String Value is ${stringValue}")
 
+    //Character
+    val charValue = 'D'
+    print("Character Value is ${charValue}")
+
     /**
      * NOTE
      * var - Mutable, it can change the value.
      * val - Immutable, value can't be change.
+     * ${variable} - concat the any datatype in the string.
      * **/
 
 

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae1ee04-43dc-4806-a009-9d1fabbbfa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial 1 - Print.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_2___Variable___DataTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_2___Variable___DataTypesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +17,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="535">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,6 +45,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Tutorial 1 - Hello World.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" />
       </list>
     </option>
   </component>
@@ -76,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553690230788" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553691797915" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -91,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_2___Variable___DataTypesKt">
+  <component name="RunManager" selected="Kotlin.Tutorial_3___RangesKt">
     <configuration name="Tutorial_1___Hello_WorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
@@ -118,8 +123,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tutorial_3___RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial - DevMonkey" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tutorial_3___RangesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_3___RangesKt" />
         <item itemvalue="Kotlin.Tutorial_2___Variable___DataTypesKt" />
         <item itemvalue="Kotlin.Tutorial_1___Hello_WorldKt" />
       </list>
@@ -168,7 +187,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32756132" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32756132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -198,8 +217,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="242">
+          <caret line="20" column="23" lean-forward="true" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../KotlinTutorial/src/9_ranges.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
