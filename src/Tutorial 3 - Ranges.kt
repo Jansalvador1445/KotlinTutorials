@@ -43,4 +43,15 @@ fun main(args:Array<String>) {
     // Expected Output: c b a
     var cd_z_a = 'c'.downTo('a')
 
+
+    //Method 1
+    println("Method #1")
+    val methodValue = 5
+
+    if (methodValue !in 10..1){
+        print("${methodValue} = exist in ranges")
+    }else{
+        print("${methodValue} = Sorry, doesn't exist")
+    }
+
 }
