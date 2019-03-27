@@ -5,7 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/META-INF/Kotlin Tutorial - DevMonkey.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/META-INF/Kotlin Tutorial - DevMonkey.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_5___For_LoopsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_5___For_LoopsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 4 - If Statement.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 6 - ForEach.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#66#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -55,10 +52,10 @@
         <option value="$PROJECT_DIR$/src/Tutorial 1 - Hello World.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 2 - Variable &amp; DataTypes.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 5 - Loops.kt" />
-        <option value="$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 6 - ForEach.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 4 - If Statement.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt" />
       </list>
     </option>
   </component>
@@ -94,7 +91,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553696000011" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553696543001" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -109,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_3___RangesKt">
+  <component name="RunManager" selected="Kotlin.Tutorial_5___For_LoopsKt">
     <configuration name="Tutorial_3___RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
@@ -177,9 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_5___For_LoopsKt" />
         <item itemvalue="Kotlin.Tutorial_3___RangesKt" />
         <item itemvalue="Kotlin.Tutorial_6___ForEachKt" />
-        <item itemvalue="Kotlin.Tutorial_5___For_LoopsKt" />
         <item itemvalue="Kotlin.Tutorial_5___LoopsKt" />
         <item itemvalue="Kotlin.Tutorial_4___If_StatementKt" />
       </list>
@@ -211,7 +208,7 @@
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2539342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2539342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,17 +273,13 @@
     <entry file="file://$PROJECT_DIR$/../KotlinTutorial/src/11_when_expression.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt">
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 6 - ForEach.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="495">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -297,13 +290,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt">
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 6 - ForEach.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#66#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="368">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>

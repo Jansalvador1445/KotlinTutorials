@@ -48,5 +48,12 @@ fun main(args:Array<String>) {
         println("${i}")
     }
 
+    //For loop - Until
+    //Output: 1 2 3 4
+    println("\nMethod #8: Until")
+    for (i in 1 until 5){
+        println("${i}")
+    }
+
 
 }
