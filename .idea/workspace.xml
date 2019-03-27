@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae1ee04-43dc-4806-a009-9d1fabbbfa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tutorial 7 - While Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 7 - While Loop.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="128">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/Tutorial 3 - Ranges.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 7 - While Loop.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt" />
       </list>
     </option>
   </component>
@@ -81,7 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553697747239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553698101459" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -96,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_7___While_LoopKt">
+  <component name="RunManager" selected="Kotlin.Tutorial_8___Repeat___WhenKt">
     <configuration name="Tutorial_3___RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
@@ -118,19 +119,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Tutorial_5___For_LoopsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tutorial_5___LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial - DevMonkey" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Tutorial_5___LoopsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,13 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tutorial_8___Repeat___WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial - DevMonkey" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tutorial_8___Repeat___WhenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_8___Repeat___WhenKt" />
         <item itemvalue="Kotlin.Tutorial_7___While_LoopKt" />
         <item itemvalue="Kotlin.Tutorial_5___For_LoopsKt" />
         <item itemvalue="Kotlin.Tutorial_3___RangesKt" />
         <item itemvalue="Kotlin.Tutorial_6___ForEachKt" />
-        <item itemvalue="Kotlin.Tutorial_5___LoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +209,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32756132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32756132" />
@@ -296,8 +297,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 7 - While Loop.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
