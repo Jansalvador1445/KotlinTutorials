@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae1ee04-43dc-4806-a009-9d1fabbbfa4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tutorial 19 - Maps.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tutorial 18 - List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorial 18 - List.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 18 - List.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 19 - Maps.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="253">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -61,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/Tutorial 17 - Function(Extension).kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 18 -.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 18 - List.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 19 - Maps.kt" />
       </list>
     </option>
   </component>
@@ -96,7 +99,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553783968659" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553785556099" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -111,20 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_18___ListKt">
-    <configuration name="Tutorial_14___InterpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial - DevMonkey" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Tutorial_14___InterpolationKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Tutorial_19___MapsKt">
     <configuration name="Tutorial_15___FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
@@ -177,13 +167,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tutorial_19___MapsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial - DevMonkey" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tutorial_19___MapsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_19___MapsKt" />
         <item itemvalue="Kotlin.Tutorial_18___ListKt" />
         <item itemvalue="Kotlin.Tutorial_17_1___Function_Extension_Kt" />
         <item itemvalue="Kotlin.Tutorial_16___Functions_Expression_Kt" />
         <item itemvalue="Kotlin.Tutorial_15___FunctionsKt" />
-        <item itemvalue="Kotlin.Tutorial_14___InterpolationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +312,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../KotlinTutorial/src/5_kotlin_basics.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 12 -.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 13 -.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 16 - Functions (Expression).kt" />
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 18 -.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 9 - Break &amp; Continue.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -330,17 +346,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../KotlinTutorial/src/5_kotlin_basics.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 11 - Arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="46">
           <caret line="2" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 12 -.kt" />
     <entry file="file://$PROJECT_DIR$/src/Tutorial 12 - Calling the Class.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -348,7 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 13 -.kt" />
     <entry file="file://$PROJECT_DIR$/src/Tutorial 13 - Calling the Class from other file.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -377,11 +388,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 16 - Functions (Expression).kt" />
     <entry file="file://$PROJECT_DIR$/src/Tutorial 16 - Functions(Expression).kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 17 - Function(Extension).kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -392,24 +409,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 17 - Function(Extension).kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 18 -.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 18 - List.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 19 - Maps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>

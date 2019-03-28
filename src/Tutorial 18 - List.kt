@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
 
-    var list = ArrayList<String>()
+    val list = ArrayList<String>()
 
     //Add value in ArrayList
     list.add("Hello")
