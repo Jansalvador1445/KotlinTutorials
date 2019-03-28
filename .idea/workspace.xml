@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae1ee04-43dc-4806-a009-9d1fabbbfa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tutorial 19 - Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorial 20 - Hash Set.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial 18 - List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorial 18 - List.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tutorial 19 - Maps.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 20 - Hash Set.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -64,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/Tutorial 18 -.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 18 - List.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 19 - Maps.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 20 - Hash Set.kt" />
       </list>
     </option>
   </component>
@@ -99,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553785556099" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553786343256" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -114,20 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_19___MapsKt">
-    <configuration name="Tutorial_15___FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial - DevMonkey" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Tutorial_15___FunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Tutorial_20___Hash_SetKt">
     <configuration name="Tutorial_16___Functions_Expression_Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
@@ -180,13 +176,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tutorial_20___Hash_SetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial - DevMonkey" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tutorial_20___Hash_SetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_20___Hash_SetKt" />
         <item itemvalue="Kotlin.Tutorial_19___MapsKt" />
         <item itemvalue="Kotlin.Tutorial_18___ListKt" />
         <item itemvalue="Kotlin.Tutorial_17_1___Function_Extension_Kt" />
         <item itemvalue="Kotlin.Tutorial_16___Functions_Expression_Kt" />
-        <item itemvalue="Kotlin.Tutorial_15___FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +428,14 @@
     <entry file="file://$PROJECT_DIR$/src/Tutorial 19 - Maps.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 20 - Hash Set.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
