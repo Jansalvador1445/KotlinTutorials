@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae1ee04-43dc-4806-a009-9d1fabbbfa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tutorial 9 - Break &amp; Continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorial 10 - Input.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_8___Repeat___WhenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial - DevMonkey/Tutorial_8___Repeat___WhenKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tutorial 9 - Break &amp; Continue.kt">
+        <entry file="file://$PROJECT_DIR$/src/Tutorial 10 - Input.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -58,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/Tutorial 7 - While Loop.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt" />
         <option value="$PROJECT_DIR$/src/Tutorial 9 - Break &amp; Continue.kt" />
+        <option value="$PROJECT_DIR$/src/Tutorial 10 - Input.kt" />
       </list>
     </option>
   </component>
@@ -93,7 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553750194049" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553750832908" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -108,15 +99,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Tutorial_9___Break___ContinueKt">
-    <configuration name="Tutorial_3___RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Tutorial_10___InputKt">
+    <configuration name="Tutorial_10___InputKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial - DevMonkey" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Tutorial_3___RangesKt" />
+      <option name="MAIN_CLASS_NAME" value="Tutorial_10___InputKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tutorial_10___InputKt" />
         <item itemvalue="Kotlin.Tutorial_9___Break___ContinueKt" />
         <item itemvalue="Kotlin.Tutorial_8___Repeat___WhenKt" />
         <item itemvalue="Kotlin.Tutorial_7___While_LoopKt" />
         <item itemvalue="Kotlin.Tutorial_5___For_LoopsKt" />
-        <item itemvalue="Kotlin.Tutorial_3___RangesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +199,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,13 +290,6 @@
     <entry file="file://$PROJECT_DIR$/../KotlinTutorial/src/15_break_keyword.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 5 - For Loops.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -314,8 +299,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tutorial 9 - Break &amp; Continue.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 8 - Repeat &amp; When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial 10 - Input.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
